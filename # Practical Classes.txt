@@ -1,0 +1,15 @@
+# Practical Classes
+
+CLass 1 (5/3/2025)
+
+#Array 
+#logic about indexes
+#logic about length
+# array is a CONTIGOUS set of memory
+# variable can hold an array( only python can do it)
+# why is an array called a CONTIGOUS set of memory?
+
+Loops
+#infinite loop
+#the lower function creates a copy of the array and it doesnt affect the original array
+
