@@ -13,3 +13,22 @@ Loops
 #infinite loop
 #the lower function creates a copy of the array and it doesnt affect the original array
 
+Class (19/3/2025)
+Function
+None
+
+Namespace - 1 question in exam
+
+to change the global variable use the global queuer
+glbal scope can be ACCESSED anywhere
+
+Within the function if there is a variable named the same as the global scope,  python takes precedence local scope over global scope
+
+why do we use function inside a function?
+
+global scope - global to function(Important)
+
+#not that important
+non local - used to manipulate the variable inside the function(function inside function)
+
+
